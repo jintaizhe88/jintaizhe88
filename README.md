@@ -4,12 +4,12 @@
 
 ## 🤵 About_Me
 
-- 🌱 I'm currently learning front-end development
-- 🤔 I use daily `.js`,` .html`, `.sass`/`.css`
+- 🌱 I'm currently working on front-end and backend development
+- 🤔 I use daily JavaScript, TypeScript
 - 📝 I write articles on [indietutes.com](https://indietutes.com)
 - 💬 Talk to me about Technology, Space and Politics
 - 😄 Pronouns: He/Him
-- 👯 I’m looking to collaborate on Web development
+- 👯 I’m looking to collaborate on Web and Mobile development
 - ☕ I don't use Caffeine
 
 
