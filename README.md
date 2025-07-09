@@ -150,31 +150,11 @@
 
 ---
 
-## 📈 Development Metrics
-
-<div align="center">
-
-### ⏰ Coding Activity (This Week)
-
-<!--START_SECTION:waka-->
-```text
-🌞 Morning    127 commits    ████████░░░░░░░░░░░░░   32.15%
-🌆 Daytime    156 commits    ██████████░░░░░░░░░░░   39.49%
-🌃 Evening    89 commits     █████░░░░░░░░░░░░░░░░   22.54%
-🌙 Night      23 commits     █░░░░░░░░░░░░░░░░░░░░    5.82%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 🎓 Learning & Development
 
 <div align="center">
 
 ### 📚 Currently Learning
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -196,30 +176,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@taizhe_dev-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taizhe_dev)
 [![Dev.to](https://img.shields.io/badge/Dev.to-taizhe-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/taizhe)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-taizhe-orange?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/taizhe)
-
-### 💌 Let's Collaborate!
-
-I'm always interested in exciting projects and opportunities. Feel free to reach out if you want to:
-
-- 🤝 Collaborate on **Open Source Projects**
-- 💼 Discuss **Job Opportunities**
-- 🎓 **Mentorship** or **Learning Together**
-- 💡 Share **Ideas** about **Technology** or **Space**
-- 🗣️ **Tech Talks** or **Podcast Appearances**
-- 📝 **Guest Writing** for your blog or publication
-
-</div>
-
----
-
-## 🎨 Fun Stuff
-
-<div align="center">
-
-### 🎵 Current Vibe
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-id)
-
-*🎧 Currently vibing to: Lo-fi Hip Hop beats while coding*
 
 </div>
 
