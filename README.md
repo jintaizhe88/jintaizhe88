@@ -1,184 +1,142 @@
-# Hi, I'm TaiZhe Jin 👋
+# Hi there! 👋 I'm TaiZhe Jin
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+%26+Backend+Expert;JavaScript+%26+TypeScript+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-
-## 🤵 About_Me
-
-- 🌱 I'm currently working on front-end and backend development
-- 🤔 I use daily JavaScript, TypeScript
-- 📝 I write articles on [indietutes.com](https://indietutes.com)
-- 💬 Talk to me about Technology, Space and Politics
-- 😄 Pronouns: He/Him
-- 👯 I’m looking to collaborate on Web and Mobile development
-- ☕ I don't use Caffeine
-
-
-
-## 🚀 My_Skills
-
-> _Tools, languages, and other things that I like to work with_
-
-**Programming Languages**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
-      </a>
-      <br>C
-    </td>
-  </tr>
-</table>
-
-**Frameworks & Libraries**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
-
-**Markup & Stylesheet**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
-      </a>
-      <br>SASS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
-      </a>
-      <br>Markdown
-    </td>
-  </tr>
-</table>
-
-**Graphic Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/illustrator.svg" width="40"/>
-      </a>
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
-
-**Other Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/gulp.svg" width="25"/>
-      </a>
-      <br>Gulp
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40"/>
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/>
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-## 📝 Recent_Blog_Posts
-
-- [Authorize Git Operations Using Personal Access Token](https://indietutes.com/authorize-git-operations-using-personal-access-token)
-
-- [21 HTML Best Practices for Writing Maintainable and Scalable Document](https://indietutes.com/html-best-practices)
-
-- [7 Git Commands with Examples](https://indietutes.com/git-commands)
-
-## 📈 Github_Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jintaizhe88# Hi, I'm&show_icons=true&theme=radical&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jintaizhe88&theme=radical&langs_count=15&layout=compact&hide_border=true)
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=jintaizhe88&theme=redical&hide_border=true&area=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jintaizhe88&theme=radical&hide_border=true)
+</div>
 
 ---
 
-Credit: [pkkulhari](https://github.com/jintaizhe88)  
+## 🚀 About Me
+
+```javascript
+const taizhe = {
+    code: ["JavaScript", "TypeScript", "Python", "PHP", "C"],
+    technologies: {
+        frontEnd: ["React", "HTML", "CSS", "SASS", "Bootstrap"],
+        backEnd: ["Node.js", "PHP"],
+        desktop: ["Electron"],
+        tools: ["Git", "Webpack", "Gulp"],
+        design: ["Figma", "Adobe Illustrator", "Photoshop"]
+    },
+    currentWork: "Full Stack Development",
+    blog: "indietutes.com",
+    interests: ["Technology", "Space", "Politics"],
+    pronouns: "He/Him",
+    funFact: "I code without caffeine! ☕❌"
+};
+```
+
+- 🌱 Currently working on **Frontend & Backend Development**
+- 💻 Daily languages: **JavaScript & TypeScript**
+- 📝 I write tech articles on **[indietutes.com](https://indietutes.com)**
+- 💬 Let's talk about **Technology, Space & Politics**
+- 👯 Looking to collaborate on **Web & Mobile Development**
+- ⚡ Fun fact: **I don't use caffeine to code!**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
+
+### Frontend Technologies
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### Backend & Tools
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+<img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
+</p>
+
+### Design & Graphics
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 📚 [Authorize Git Operations Using Personal Access Token](https://indietutes.com/authorize-git-operations-using-personal-access-token)
+- ✨ [21 HTML Best Practices for Writing Maintainable and Scalable Document](https://indietutes.com/html-best-practices)
+- 🔧 [7 Git Commands with Examples](https://indietutes.com/git-commands)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More articles on indietutes.com](https://indietutes.com)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jintaizhe88&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jintaizhe88&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jintaizhe88&theme=radical&langs_count=15&layout=compact&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jintaizhe88&theme=radical&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-indietutes.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indietutes.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jintaizhe88-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jintaizhe88)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=jintaizhe88&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Thanks for visiting! 😊**
+
+*Don't forget to ⭐ some repositories if you find them interesting!*
+
+</div>
