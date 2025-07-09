@@ -148,37 +148,6 @@
 
 </div>
 
----
-
-## 🎓 Learning & Development
-
-<div align="center">
-
-### 📚 Currently Learning
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-### 📱 Social Media & Professional Networks
-
-[![Website](https://img.shields.io/badge/Website-indietutes.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indietutes.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jintaizhe88-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jintaizhe88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TaiZhe_Jin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taizhe-jin)
-[![Twitter](https://img.shields.io/badge/Twitter-@taizhe_dev-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taizhe_dev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-taizhe-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/taizhe)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-taizhe-orange?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/taizhe)
-
-</div>
-
 <div align="center">
 
 ### 🌟 "The best way to predict the future is to invent it." - Alan Kay
