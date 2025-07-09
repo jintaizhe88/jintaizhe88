@@ -10,24 +10,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const taizhe = {
-    code: ["JavaScript", "TypeScript", "Python", "PHP", "C"],
-    technologies: {
-        frontEnd: ["React", "HTML", "CSS", "SASS", "Bootstrap"],
-        backEnd: ["Node.js", "PHP"],
-        desktop: ["Electron"],
-        tools: ["Git", "Webpack", "Gulp"],
-        design: ["Figma", "Adobe Illustrator", "Photoshop"]
-    },
-    currentWork: "Full Stack Development",
-    blog: "indietutes.com",
-    interests: ["Technology", "Space", "Politics"],
-    pronouns: "He/Him",
-    funFact: "I code without caffeine! ☕❌"
-};
-```
-
 - 🌱 Currently working on **Frontend & Backend Development**
 - 💻 Daily languages: **JavaScript & TypeScript**
 - 📝 I write tech articles on **[indietutes.com](https://indietutes.com)**
