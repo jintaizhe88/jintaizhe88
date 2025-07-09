@@ -18,51 +18,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
-const taizhe = {
-    name: "TaiZhe Jin",
-    location: "🌍 Earth",
-    currentRole: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "PHP", "C"],
-    askMeAbout: ["web dev", "tech", "space", "politics"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Bootstrap", "SASS", "CSS3"],
-            markup: ["HTML5", "Markdown"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            php: ["Native PHP"],
-            python: ["Python"]
-        },
-        desktop: ["Electron"],
-        databases: ["MySQL", "MongoDB", "SQLite"],
-        devOps: ["Git", "GitHub Actions", "Docker"],
-        tools: ["Webpack", "Gulp", "NPM", "Yarn"],
-        design: ["Figma", "Adobe Creative Suite"]
-    },
-    architecture: ["Serverless", "Microservices", "SPA"],
-    currentFocus: "Building scalable web applications",
-    personalityTraits: ["Creative", "Detail-oriented", "Problem solver"],
-    funFacts: [
-        "I code without caffeine ☕❌",
-        "Space exploration enthusiast 🚀",
-        "Love discussing technology trends 💡"
-    ],
-    availableForHire: true
-};
-```
-
 ### 📋 Quick Facts
-- 🔭 Currently working on **Frontend & Backend Development**
-- 🌱 Learning **Advanced React Patterns & Node.js Architecture**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤔 Seeking help with **Cloud Architecture & DevOps**
-- 💬 Ask me about **JavaScript, React, Node.js, or Space Technology**
-- 📫 Reach me at: **[Your Email]**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can code for hours without a single drop of caffeine!**
+- Currently working on **Frontend & Backend Development**
+- Learning **Advanced React Patterns & Node.js Architecture**
+- Looking to collaborate on **Open Source Projects**
+- Seeking help with **Cloud Architecture & DevOps**
+- Ask me about **JavaScript, React, Node.js, or Space Technology**
+- Reach me at: **[Your Email]**
+- Pronouns: **He/Him**
+- Fun fact: **I can code for hours without a single drop of caffeine!**
 
 ---
 
@@ -186,13 +150,6 @@ const taizhe = {
 
 <div align="center">
 
-### 💻 Most Used Languages
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jintaizhe88&theme=radical&langs_count=15&layout=compact&hide_border=true" alt="Most Used Languages"/>
-
-</div>
-
-<div align="center">
-
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
@@ -206,29 +163,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
 </div>
 
-<div align="center">
-
-### 🎯 GitHub Activity Graph
-[![TaiZhe's github activity graph](https://activity-graph.herokuapp.com/graph?username=jintaizhe88&theme=radical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-### 🌟 Pinned Repositories
-
-<a href="https://github.com/jintaizhe88/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jintaizhe88&repo=project1&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/jintaizhe88/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jintaizhe88&repo=project2&theme=radical&hide_border=true" />
-</a>
-
-</div>
 
 ### 💡 Project Showcase
 
@@ -275,31 +210,6 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-
-<div align="center">
-
-### ✍️ From [indietutes.com](https://indietutes.com)
-
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 [Authorize Git Operations Using Personal Access Token](https://indietutes.com/authorize-git-operations-using-personal-access-token)
-- 📋 [21 HTML Best Practices for Writing Maintainable and Scalable Document](https://indietutes.com/html-best-practices)
-- 🔧 [7 Git Commands with Examples](https://indietutes.com/git-commands)
-- 🚀 [Advanced React Patterns You Should Know](https://indietutes.com/advanced-react-patterns)
-- 💡 [JavaScript Performance Optimization Techniques](https://indietutes.com/js-performance-optimization)
-- 🔮 [The Future of Web Development](https://indietutes.com/future-web-development)
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Read_More_Articles-indietutes.com-blue?style=for-the-badge&logo=rss&logoColor=white)](https://indietutes.com)
-
-</div>
-
----
-
 ## 🌟 Skills & Expertise
 
 <div align="center">
@@ -319,17 +229,6 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
 </div>
 
-### 🏆 Certifications & Achievements
-
-- 🎖️ **Certified React Developer** - React Training Institute
-- 🥇 **JavaScript Algorithms Specialist** - FreeCodeCamp
-- 🏅 **Node.js Application Developer** - Node.js Foundation
-- 📜 **AWS Cloud Practitioner** - Amazon Web Services
-- 🎯 **Google Analytics Certified** - Google
-- 🔰 **Git Version Control Expert** - Atlassian
-
----
-
 ## 📈 Development Metrics
 
 <div align="center">
@@ -345,17 +244,6 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### 📅 Productivity Stats
-
-| Metric | Count | Description |
-|--------|-------|-------------|
-| 📦 Total Repositories | 45+ | Public & Private |
-| 🌟 Stars Received | 200+ | Across all repos |
-| 🍴 Forks Created | 30+ | Community contributions |
-| 👥 Followers | 100+ | Developer network |
-| 📚 Articles Published | 25+ | Technical blog posts |
-| 🔥 Streak Record | 120 days | Longest coding streak |
-
 </div>
 
 ---
@@ -370,15 +258,6 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🎯 2024 Goals
-- [ ] 🚀 Launch 3 major open-source projects
-- [ ] 📖 Publish 50+ technical articles
-- [ ] 🎓 Complete AWS Solutions Architect certification
-- [ ] 🌟 Reach 1000 GitHub stars
-- [ ] 🤝 Mentor 10+ junior developers
-- [ ] 📱 Build a React Native application
-- [ ] 🔬 Contribute to 5+ major open-source projects
 
 </div>
 
@@ -416,15 +295,6 @@ I'm always interested in exciting projects and opportunities. Feel free to reach
 
 <div align="center">
 
-### 🎭 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/jintaizhe88/count.svg)
-
-### 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/jintaizhe88/jintaizhe88/blob/output/github-contribution-grid-snake.svg)
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🎵 Current Vibe
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-id)
 
@@ -458,23 +328,9 @@ If you find my projects helpful, consider buying me a coffee! ☕
 
 *Don't forget to ⭐ some repositories if you find them interesting!*
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
 **💻 Happy Coding! 🌟**
 
 </div>
-
----
-
-<details>
-<summary>📈 <b>Detailed GitHub Metrics</b></summary>
-<br>
-
-![Metrics](https://metrics.lecoq.io/jintaizhe88?template=classic&repositories.forks=true&languages=1&introduction=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&reactions=1&people=1&stargazers=1&repositories=1&rss=1&sponsors=1&traffic=1&gists=1&projects=1&code=1&lines=1&isocalendar=1&habits=1&music=1&tweets=1&stackoverflow=1&config.timezone=UTC)
-
-</details>
 
 ---
 
