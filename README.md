@@ -331,7 +331,3 @@ If you find my projects helpful, consider buying me a coffee! ☕
 **💻 Happy Coding! 🌟**
 
 </div>
-
----
-
-*Last updated: July 2025 | Made with ❤️ and lots of ☕-free coding sessions*
