@@ -179,22 +179,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 💰 Support My Work
-
-If you find my projects helpful, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/taizhe)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/taizhe)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/taizhe)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 "The best way to predict the future is to invent it." - Alan Kay
