@@ -6,9 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jintaizhe88&color=blueviolet&style=for-the-badge)](https://github.com/jintaizhe88)
-[![GitHub followers](https://img.shields.io/github/followers/jintaizhe88?logo=GitHub&style=for-the-badge)](https://github.com/jintaizhe88)
-[![GitHub stars](https://img.shields.io/github/stars/jintaizhe88?logo=github&style=for-the-badge)](https://github.com/jintaizhe88)
+[![Profile Views](https://komarev.com/ghpvc/?username=tzjin88&color=blueviolet&style=for-the-badge)](https://github.com/tzjin88)
+[![GitHub followers](https://img.shields.io/github/followers/tzjin88?logo=GitHub&style=for-the-badge)](https://github.com/tzjin88)
+[![GitHub stars](https://img.shields.io/github/stars/tzjin88?logo=github&style=for-the-badge)](https://github.com/tzjin88)
 
 </div>
 
@@ -136,15 +136,15 @@
 <div align="center">
 
 ### 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=jintaizhe88&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tzjin88&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
 ### 📈 Contribution Stats
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jintaizhe88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jintaizhe88&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tzjin88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tzjin88&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
