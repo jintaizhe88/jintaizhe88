@@ -2,7 +2,7 @@
   
 # 👋 Hi there! I'm TaiZhe Jin
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+Backend+Expert+%F0%9F%92%BB;JavaScript+%26+TypeScript+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A;Space+%26+Technology+Lover+%F0%9F%8C%8C;Caffeine-Free+Coder+%E2%98%95%E2%9D%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+Backend+Expert+%F0%9F%92%BB;I+Love+Coding;Always+Learning+New+Things+%F0%9F%93%9A;Space+%26+Technology+Lover+%F0%9F%8C%8C;Caffeine-Free+Coder+%E2%98%95%E2%9D%8C" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
