@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there! I'm TaiZhe Jin
+# 👋 Hi there!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+Backend+Expert+%F0%9F%92%BB;I+Love+Coding;Always+Learning+New+Things+%F0%9F%93%9A;Space+%26+Technology+Lover+%F0%9F%8C%8C;Caffeine-Free+Coder+%E2%98%95%E2%9D%8C" alt="Typing SVG" />
 
