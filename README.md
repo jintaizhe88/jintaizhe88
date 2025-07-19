@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi there!
+# Hi there!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%26+Backend+Expert+%F0%9F%92%BB;I+Love+Coding;Always+Learning+New+Things+%F0%9F%93%9A;Space+%26+Technology+Lover+%F0%9F%8C%8C;Caffeine-Free+Coder+%E2%98%95%E2%9D%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=2000&color=50C878&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%26+Backend+Expert;I+Love+Coding;Always+Learning+New+Things;Space+%26+Technology+Lover;Caffeine-Free+Coder+%E2%98%95%E2%9D%8C" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -14,11 +14,11 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 📋 Quick Facts
+### Quick Facts
 - Currently working on **Frontend & Backend Development**
 - Learning **Advanced React Patterns & Node.js Architecture**
 - Looking to collaborate on **Open Source Projects**
@@ -30,11 +30,11 @@
 
 ---
 
-## 🛠️ Technology Stack & Tools
+## Technology Stack & Tools
 
 <div align="center">
 
-### 🎯 Core Technologies
+### Core Technologies
 
 | Frontend | Backend | Database | DevOps | Design |
 |----------|---------|----------|--------|--------|
@@ -44,10 +44,10 @@
 
 </div>
 
-### 🔧 Development Tools & Environment
+### Development Tools & Environment
 
 <details>
-<summary>💻 <b>Programming Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary>🎨 <b>Frontend Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary>⚙️ <b>Backend Development</b></summary>
+<summary><b>Backend Development</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-<summary>🗄️ <b>Database & Cloud</b></summary>
+<summary><b>Database & Cloud</b></summary>
 <br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary>🛠️ <b>Tools & Software</b></summary>
+<summary><b>Tools & Software</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -118,7 +118,7 @@
 </details>
 
 <details>
-<summary>🎨 <b>Design & Graphics</b></summary>
+<summary><b>Design & Graphics</b></summary>
 <br>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -131,18 +131,18 @@
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## GitHub Analytics & Statistics
 
 <div align="center">
 
-### 🏆 GitHub Trophy
+### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=tzjin88&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-### 📈 Contribution Stats
+### Contribution Stats
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tzjin88&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tzjin88&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
@@ -150,14 +150,14 @@
 
 <div align="center">
 
-### 🌟 "The best way to predict the future is to invent it." - Alan Kay
+### "The best way to predict the future is to invent it." - Alan Kay
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Thanks for visiting my profile! 🚀**
+**Thanks for visiting my profile!**
 
 *Don't forget to ⭐ some repositories if you find them interesting!*
 
-**💻 Happy Coding! 🌟**
+**💻 Happy Coding!**
 
 </div>
