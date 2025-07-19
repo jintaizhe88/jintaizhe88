@@ -24,7 +24,7 @@
 - Looking to collaborate on **Open Source Projects**
 - Seeking help with **Cloud Architecture & DevOps**
 - Ask me about **JavaScript, React, Node.js, or Space Technology**
-- Reach me at: **[Your Email]**
+- Reach me at: **jintaizhe88@outlook.com**
 - Pronouns: **He/Him**
 - Fun fact: **I can code for hours without a single drop of caffeine!**
 
